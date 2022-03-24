@@ -1,0 +1,8 @@
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\bin\Debug\FacecExercicioListas.exe.config
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\bin\Debug\FacecExercicioListas.exe
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\bin\Debug\FacecExercicioListas.pdb
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\obj\Debug\FacecExercicioListas.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\obj\Debug\FacecExercicioListas.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\obj\Debug\FacecExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\obj\Debug\FacecExercicioListas.exe
+C:\Users\facec.lab04\source\repos\FacecExercicioListas\FacecExercicioListas\obj\Debug\FacecExercicioListas.pdb
