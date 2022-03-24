@@ -28,10 +28,10 @@ namespace Exercicio._8
                 var nome = Console.ReadLine().ToLower();
                 var count = 0;
 
-                for(int i=0; i< nome.Length; i++)
-                //foreach(var letra in nome)
+                //for(int i=0; i< nome.Length; i++)
+                foreach(var letra in nome)
                 {
-                    var letra = nome[i];
+                    //var letra = nome[i];
 
                     /*if (!_a.Equals(letra) &&
                         !_e.Equals(letra) &&
@@ -43,15 +43,15 @@ namespace Exercicio._8
                         count++;    
                 }
 
-                Console.WriteLine($"Seu nome possui {count}" + "consoantes");
+                Conso
+            } catch(Exception ex)le.WriteLine($"Seu nome possui {count}" + " consoantes");
 
-            } catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);  
             }
             finally
             {
-                Console.WriteLine();
+                Console.ReadLine();
             }
 
         }
